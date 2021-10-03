@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98bb7c77f6b80814385e82bec834fdc1, type: 3}
+  m_Name: Love
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 92f423b34d1b30140888b805158da116, type: 3}
+  itemName: Love
+  ID: 4
+  price: 0
+  amount: 0
